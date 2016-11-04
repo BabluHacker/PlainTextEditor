@@ -15,10 +15,6 @@ import java.util.ArrayList;
 import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author shafayat
- */
 public class Client {
 
     public BufferedReader br = null;

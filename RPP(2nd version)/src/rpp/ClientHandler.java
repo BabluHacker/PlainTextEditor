@@ -13,10 +13,7 @@ import java.io.PrintStream;
 import java.net.Socket;
 import java.util.ArrayList;
 
-/**
- *
- * @author shafayat
- */
+
 //A thread class that handles clients
 public class ClientHandler extends Thread {
 

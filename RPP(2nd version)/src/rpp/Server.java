@@ -11,10 +11,6 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
 
-/**
- *
- * @author shafayat
- */
 public class Server implements Runnable {
 
     private int port;
